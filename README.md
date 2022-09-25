@@ -1,16 +1,22 @@
-# todo_app_repository_pattern
+# Todo APP com Repository Pattern
 
-A new Flutter project.
+**Descrição: Utilizar o flutter para desenvolver um app de todo com repository pattern e consulta de dados via API externa.**
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+Vamos aos requisitos:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Chamar uma API externa;
+2. Listar todos as tarefas encontrados;
+3. Utilizar MVC;
+4. Utilizar repository pattern.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resultado
+
+---
+
+Desenvolvi um aplicativo com apenas um tela simples. A intenção é apenas trabalhar o repository pattern, a chamada de API externa e o gerenciamento de estado.
+
+![Captura de Tela (255).png](Todo%20APP%20com%20Repository%20Pattern%20495d60ba0d0345558a4b17263029bbe0/Captura_de_Tela_(255).png)
