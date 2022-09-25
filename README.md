@@ -19,4 +19,4 @@ Vamos aos requisitos:
 
 Desenvolvi um aplicativo com apenas um tela simples. A intenção é apenas trabalhar o repository pattern, a chamada de API externa e o gerenciamento de estado.
 
-![Captura de Tela (255).png](Todo%20APP%20com%20Repository%20Pattern%20495d60ba0d0345558a4b17263029bbe0/Captura_de_Tela_(255).png)
+![Captura de Tela (255).png](/Captura%20de%20Tela%20(255).png)
